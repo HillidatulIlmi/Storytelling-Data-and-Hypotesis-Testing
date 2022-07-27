@@ -22,3 +22,4 @@ The size of the spread of data as a measure that states how big the deviation of
 Will be displayed in the form of a bar chart, pie chart, scatterplot which will explain the storytelling of the case based on the visualization results.
 
 ## Hypotesis Testing
+Hypothesis testing is a decision-making method based on data analysis, both from controlled experiments, and from observations (uncontrolled). After all the data is clean of missing values and oulier, the next stage of analysis can be carried out. The testing hypothesis that I use in solving the case of order items & products is One Sample T-Test One Tailed and Independent Sample T-Test.
