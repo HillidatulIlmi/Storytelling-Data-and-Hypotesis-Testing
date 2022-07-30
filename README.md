@@ -42,3 +42,8 @@ Hypothesis testing is a decision-making method based on data analysis, both from
    2. For the Statistical Analysis layout:
       - Write the process of descriptive and inferential statistical analysis carried out in a notebook from the problems raised to the conclusions of the results of statistical analysis.
 - Conclusion. In this last chapter, it must contain conclusions that reflect solutions/recommendations/answers to the problems raised and draw common threads from all analyzes and calculations in a concise, clear, and concise manner.
+
+## Reference
+- https://docs.streamlit.io/
+- https://www.smartstat.info/materi/statistika/statistik-deskriptif/statistika-deskriptif.html#:~:text=Terdapat%20dua%20metode%20dasar%20dalam%20statistik%20deskriptif%2C%20yaitu%20numerik%20dan%20grafis.
+- https://medium.com/geekculture/how-to-run-your-streamlit-apps-in-vscode-3417da669fc
