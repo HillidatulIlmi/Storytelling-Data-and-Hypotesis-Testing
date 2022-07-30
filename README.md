@@ -2,6 +2,8 @@
 
 URl Heroku is https://hillidatul-ftds-001-p0m1.herokuapp.com/
 
+![Screenshot (92)](https://user-images.githubusercontent.com/105533908/181877178-ffde4e7d-89d4-4028-8c20-53cafab4fb0c.png)
+
 ## Dataset Information
 The dataset used is from Google Cloud Platform BigQuery. Then identify and describe the problem based on the dataset that will be used, in order to make it easier for you to carry out the analysis. Can use any method such as SWOT analysis, Fish bone diagram, 5W+1H, etc
 
